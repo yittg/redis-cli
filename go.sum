@@ -1,0 +1,4 @@
+github.com/holys/goredis v0.0.0-20170102023504-0190d3dd3e98 h1:ns2kORpNOLTzlb8l37qSuCpLHNQlWrCJRJDW0kqK0+A=
+github.com/holys/goredis v0.0.0-20170102023504-0190d3dd3e98/go.mod h1:+DLp1Rx/ZxAvVgSPQwoUKr5WHebDnON/UhzzPI0Qkpg=
+github.com/peterh/liner v1.0.1-0.20161103180659-3c5f577f62ec h1:n2+FoyfERHqR0J42Rb0fjXSRqkbaF7IxfmWvS2i05LI=
+github.com/peterh/liner v1.0.1-0.20161103180659-3c5f577f62ec/go.mod h1:xIteQHvHuaLYG9IFj6mSxM0fCKrs34IrEQUhOYuGPHc=

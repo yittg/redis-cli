@@ -1,0 +1,6 @@
+# github.com/holys/goredis v0.0.0-20170102023504-0190d3dd3e98
+## explicit
+github.com/holys/goredis
+# github.com/peterh/liner v1.0.1-0.20161103180659-3c5f577f62ec
+## explicit
+github.com/peterh/liner

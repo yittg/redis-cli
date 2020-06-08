@@ -195,8 +195,8 @@ func cliConnect() {
 		client = goredis.NewClient(addr, "")
 		client.SetMaxIdleConns(1)
 		sendPing(client)
-		sendSelect(client, *dbn)
 		sendAuth(client, *auth)
+		sendSelect(client, *dbn)
 	}
 }
 
